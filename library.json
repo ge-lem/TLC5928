@@ -1,0 +1,16 @@
+{
+  "name": "TLC5928",
+  "keywords": "TLC5928, begin, on, off, attach, setPixel, show, clear",
+  "description": "TLC5928 library for Arduino",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "version": "0.1",
+  "exclude": [
+    "*.png",
+    "*.zip"
+  ],
+  "frameworks": "arduino",
+  "platforms": "*"
+}
